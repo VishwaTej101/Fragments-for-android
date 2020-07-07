@@ -14,7 +14,8 @@ conclusion:
 Here the beginners of android development can learn how the fragment is used.
 
 Note:
-Most people think fragments as  different activity. The reason for using fragment
+Most people think fragments as  different activity but it is not completly true.Here we use a part of main screen completely for another action or activity which we call it as fragment.
+The reason for using fragment
 is it is much effiecent way then creating an activity.
 An activity is used for bigger purpose where for small scale operations one can use
 fragments.
