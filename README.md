@@ -4,8 +4,10 @@ on the activity screen.
 
 Approch:
 1) here we have taken three different country capitals as buttons.
+
 2)On clicking these buttons we have brought the related fragment and made sure
 it is shown on the activity page
+
 3)here we have taken three blank fragments for each button to show upon action
 
 conclusion:
