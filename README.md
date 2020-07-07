@@ -3,7 +3,7 @@ Aim: To create three different fragments from main Activity and show them on the
 on the activity screen.
 
 Approch:
-1) here we have taken three different country capitals as buttons.
+1)Here we have taken three different country capitals as buttons.
 
 2)On clicking these buttons we have brought the related fragment and made sure
 it is shown on the activity page
