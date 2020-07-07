@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Newdelhi1">
+
+    <TextView
+        android:id="@+id/india"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="85dp"
+        android:text="@string/country_india"
+        android:textColor="#F31909"
+        android:textSize="30sp"
+        android:layout_marginEnd="85dp" />
+
+    <TextView
+        android:id="@+id/populationIndia"
+        android:layout_width="286dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|start|top|end"
+        android:layout_marginStart="25dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginRight="100dp"
+        android:text="@string/population_120_cr"
+        android:textColor="#ED0707"
+        android:textSize="30sp" />
+</FrameLayout>

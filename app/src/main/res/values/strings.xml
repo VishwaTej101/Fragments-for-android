@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_delhi">New Delhi</string>
+    <string name="paris">Paris</string>
+    <string name="toronto">Toronto</string>
+    <string name="country_india">Country : India</string>
+    <string name="population_120_crore">Population :120 crore</string>
+    <string name="country_france">Country : France</string>
+    <string name="population_1_crore">Population : 1 crore</string>
+    <string name="country_canada">Country : Canada</string>
+    <string name="population_3_crore">Population : 3 Crore</string>
+    <string name="population_120_cr">Population : 120 cr</string>
+</resources>
